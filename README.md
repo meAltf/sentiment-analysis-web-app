@@ -1,8 +1,8 @@
 # sentiment-analysis-web-app
 
 ### Technolgies:
-    #### Front-end technologies: React using vite
-    #### Back-end technologies: Java + SpringBoot
+    1. Front-end technologies: React using vite
+    2. Back-end technologies: Java + SpringBoot
 
 
 ### Demo screenshot:
