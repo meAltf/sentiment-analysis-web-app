@@ -4,6 +4,9 @@
     1. Front-end technologies: React using vite
     2. Back-end technologies: Java + SpringBoot
 
+### Cover Image:
+![Uploading ChatGPT Image Apr 28, 2025, 01_40_05 AM.png…]()
+
 
 ### Demo screenshot:
 
