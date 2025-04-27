@@ -5,7 +5,8 @@
     2. Back-end technologies: Java + SpringBoot
 
 ### Cover Image:
-![Uploading ChatGPT Image Apr 28, 2025, 01_40_05 AM.png…]()
+![Sentiment_analysis_cover_image](https://github.com/user-attachments/assets/1b42e336-aa63-40f7-a17e-aa9d5bbf2081)
+
 
 
 ### Demo screenshot:
